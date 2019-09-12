@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>TEST</title>
+      <link href="/2019/09/12/TEST/"/>
+      <url>/2019/09/12/TEST/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><h4 id="4"><a href="#4" class="headerlink" title="4"></a>4</h4><h5 id="5"><a href="#5" class="headerlink" title="5"></a>5</h5><h6 id="6"><a href="#6" class="headerlink" title="6"></a>6</h6><hr><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">"Hello , World !"</span></span><br></pre></td></tr></tbody></table></figure><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">a = <span class="string">"HELLO,WORLD!"</span></span><br><span class="line">print(a)</span><br></pre></td></tr></tbody></table></figure><p><strong>Sainbyno</strong>  Sainbyno <em>Sainbyno</em></p><p><a href="sainbyno.github.io">Sainbyno</a></p><blockquote><p>HELLO WORLD<br>Sainbyno</p></blockquote><ul><li>HELLO</li></ul><p><u>下划线</u></p><p><del>删除线</del></p><p>分割线</p><hr><ul><li>A</li><li>B</li><li>C</li></ul><ul><li>A</li><li>B</li><li>C</li></ul><ul><li><input checked="" disabled="" type="checkbox"> 吃饭</li><li><input checked="" disabled="" type="checkbox"> 洗衣服</li><li><input checked="" disabled="" type="checkbox"> 洗操</li><li><input checked="" disabled="" type="checkbox"> 睡觉</li></ul><p><img src="evernotecid://48A085B7-199D-4ADB-98BB-A528970A3C3E/appyinxiangcom/26220471/ENResource/p1" alt="df8be0733d82d6c3dd50ada4a74f2d7d.png"></p><p><img src="evernotecid://48A085B7-199D-4ADB-98BB-A528970A3C3E/appyinxiangcom/26220471/ENResource/p2" alt="84c9684a22124fb30c2db47368093aff.png"></p><p><strong>插入表格</strong></p><table><thead><tr><th>账户类型</th><th>免费账户</th><th>标准账户</th><th>高级帐户</th><th>会员账户</th></tr></thead><tbody><tr><td>账户流量</td><td>60M</td><td>1GB</td><td>10GB</td><td>40GB</td></tr><tr><td><img src="evernotecid://48A085B7-199D-4ADB-98BB-A528970A3C3E/appyinxiangcom/26220471/ENResource/p3" alt="b5992216c997d60d626d0e84a2251d9f.png"></td><td></td><td></td><td></td><td></td></tr></tbody></table><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/09/10/Disk/"/>
       <url>/2019/09/10/Disk/</url>
